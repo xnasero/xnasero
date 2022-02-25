@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is just a dummy account. Please checkout my [personal github.com account] 👍
+[personal github.com account]: <https://github.com/SimonWoodtli>
 <!--
 **xnasero/xnasero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
