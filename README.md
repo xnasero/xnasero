@@ -1,3 +1,5 @@
+![Fish Banner](assets/fish.gif)
+
 ### Hi there 👋
 
 This is just a dummy account. Please checkout my [personal github.com account] 👍
