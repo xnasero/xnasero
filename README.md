@@ -20,8 +20,8 @@ This is just a dummy account. Please checkout my [personal github.com account] �
   <a href="https://wakatime.com/@SimonWoodtli">                                 
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SimonWoodtli/ec82b93c-e72b-4bcc-83ed-8f483d24a9ce.svg" />
   </a></p>                                                                      
-  ### 🔥 Editors:                                                               
-                                                                                
-Vim            15            100.0                                              
+  <h3> 🔥 Editors:<h3>
+  <br>
+  <p>Vim            15            100.0</p>                                              
                                                                                 
 </details>
