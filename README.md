@@ -22,6 +22,6 @@ This is just a dummy account. Please checkout my [personal github.com account] ğ
   </a></p>                                                                      
   <h4>ğŸ”¥ Editors:</h4>
   <br>
-  <p>Vim            15 hours 12 minutes            100.0%</p>                                     
+  <span>Vim</span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<span>15 hours 12 minutes</span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<span>100.0%</span>                                     
                                                                                 
 </details>
