@@ -21,7 +21,6 @@ This is just a dummy account. Please checkout my [personal github.com account] ð
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@SimonWoodtli/ec82b93c-e72b-4bcc-83ed-8f483d24a9ce.svg" />
   </a></p>                                                                      
   <h4> ðŸ”¥ Editors:<h4>
-  <br>
-  <p style="font-size: 12px; color: blue;">Vim            15            100.0</p>                                              
+  Vim            15 hours 12 minutes         100.0%                                         
                                                                                 
 </details>
